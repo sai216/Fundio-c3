@@ -1,0 +1,7 @@
+packages:
+  - examples/typescript/fullstack/mainnet
+  - examples/typescript/fullstack/*
+  - examples/typescript/clients/*
+  - examples/typescript/servers/*
+  - typescript/packages/*
+
